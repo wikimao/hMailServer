@@ -1,6 +1,6 @@
 [Setup]
-OutputBaseFilename=hMailServer-1.0.0-B0-x64
-AppVerName=hMailServer 1.0.0-B0-x64
+OutputBaseFilename=hMailServer-LTS-5.6.7-B2425-x64
+AppVerName=hMailServer-LTS-5.6.7-B2425-x64-x64
 ArchitecturesInstallIn64BitMode=x64
 ArchitecturesAllowed=x64
-AppVersion=1.0.0
+AppVersion=5.6.7

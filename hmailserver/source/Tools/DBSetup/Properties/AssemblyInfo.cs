@@ -9,11 +9,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("DBSetup")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("hMailServer DB-Setup Configurator")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HI")]
 [assembly: AssemblyProduct("DBSetup")]
-[assembly: AssemblyCopyright("Copyright © HI 2008")]
+[assembly: AssemblyCopyright("Copyright © The hMailServer Community Developers 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("5.6.7.0")]
+[assembly: AssemblyFileVersion("5.6.7.0")]

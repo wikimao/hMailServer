@@ -33,5 +33,10 @@ namespace hMailServer.Administrator
             MessageBox.Show("Web browser could not be started." + Environment.NewLine + ex.Message, EnumStrings.hMailServerAdministrator, MessageBoxButtons.OK, MessageBoxIcon.Warning);
          }
       }
+
+      private void labelVersion_Click(object sender, EventArgs e)
+      {
+
+      }
    }
 }

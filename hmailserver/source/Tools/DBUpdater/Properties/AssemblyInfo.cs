@@ -11,9 +11,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("DBUpdater")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HI")]
+[assembly: AssemblyCompany("HCD")]
 [assembly: AssemblyProduct("DBUpdater")]
-[assembly: AssemblyCopyright("Copyright © HI 2008")]
+[assembly: AssemblyCopyright("Copyright © The hMailServer Community Developers")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("5.6.7.0")]
+[assembly: AssemblyFileVersion("5.6.7.0")]

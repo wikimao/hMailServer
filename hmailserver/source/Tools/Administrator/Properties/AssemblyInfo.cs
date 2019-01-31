@@ -11,9 +11,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Administrator")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Halvar Information")]
+[assembly: AssemblyCompany("The hMailServer Community Developers")]
 [assembly: AssemblyProduct("Administrator")]
-[assembly: AssemblyCopyright("Copyright © Halvar Information 2008")]
+[assembly: AssemblyCopyright("Copyright © The hMailServer Community Developers 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("5.0.0.0")]
-[assembly: AssemblyFileVersion("5.0.0.0")]
+[assembly: AssemblyVersion("5.6.7.0")]
+[assembly: AssemblyFileVersion("5.6.7.0")]

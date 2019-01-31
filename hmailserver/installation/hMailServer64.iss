@@ -1,4 +1,4 @@
-// #define HMAILSERVERLIBS "C:\Dev\hMailLibs\VS2013+x64"
+#define HMAILSERVERLIBS "C:\Users\Dravion\Documents\Visual Studio 2013\Projects\hMailServer\LTS\hMailServerLibs"
 
 #include "section_setup.iss"
 #include "section_setup_64.iss"
